@@ -12,25 +12,25 @@ If running from an IDE (IntelliJ/Eclipse):
 - Setup the project to use Java 1.8
 - Use the IDE to run Main, located at src/com/lableinsight/codetest
 - You will be prometed to enter the method (getMissingLetters or animate)
--- please do not use quotes
+  - Please do not use quotes
 - Another prompt will show for input or speed and then input
--- please make sure speed is an integer and do not use quotes for either parameter
+  - Please make sure speed is an integer and do not use quotes for either parameter
 
 If Building and Running from cmd or a terminal:
 - Use desired IDE or java to compile and build the project with Java 1.8 and build a jar artifact
 - Make sure you use Java 1.8 to run in cmd/terminal or that Java Home is set to your jdk1.8 location
 - To run use `java -jar <location of jar file> <methodName> <param1> <param2>` 
--- methodName is getMissingLetters or animate, no quotes, <param2> is not used (leave empty)
--- If running getMissingLetters, <param1> will be the input String surrounded with quotes
--- If running animate, <param1> will be the speed as an integer, no quotes and <param2> will be the init String surrounded by quotes
+  - <methodName> is getMissingLetters or animate, no quotes, <param2> is not used (leave empty)
+  - If running getMissingLetters, <param1> will be the input String surrounded with quotes
+  - If running animate, <param1> will be the speed as an integer, no quotes and <param2> will be the init String surrounded by quotes
 
 ## Notes
-<p>I wrote a benchmark class which uses Java reflection to invoke the given method from given class and run it while tracking the time in nanoseconds that it took to run. 
+<p>I wrote a benchmark class which uses Java reflection to invoke the given method from given class and run it while tracking the time in nanoseconds that it took to run. <br>
 It also will run this a given number of times and average the nanoseconds that the method took.</p>
 
 <p>I did not have enough time to work this as an option when running, but left it in the source and it can be played with if desired.</p>
 
 <p>I also have this project on GitHub and was working on ore implementations, using different techniques (some working, some not quite yet) and left those in a branch called feature/other-impl-wip.
-The github page can be found here: https://github.com/mupetmower/LabelInsightBECodeTest</p>
+The github page can be found [Here](https://github.com/mupetmower/LabelInsightBECodeTest)</p>
 
 # Thank You!
