@@ -1,10 +1,10 @@
-#Label Insight - Backend Code Test#
+# Label Insight - Backend Code Test
 
-##Prerequisits##
+## Prerequisits
 - Java 1.8+
 - Make sure you Java Home is 1.8, or you IDE uses 1.8 for this project, or that you use Java 8 to build this as a jar and run with
 
-##How to Run##
+## How to Run
 This can run from either an IDE or built and then ran from the command line. 
 
 If running from an IDE (IntelliJ/Eclipse):
@@ -24,7 +24,7 @@ If Building and Running from cmd or a terminal:
 -- If running getMissingLetters, <param1> will be the input String surrounded with quotes
 -- If running animate, <param1> will be the speed as an integer, no quotes and <param2> will be the init String surrounded by quotes
 
-##Notes##
+## Notes
 <p>I wrote a benchmark class which uses Java reflection to invoke the given method from given class and run it while tracking the time in nanoseconds that it took to run. 
 It also will run this a given number of times and average the nanoseconds that the method took.</p>
 
@@ -33,4 +33,4 @@ It also will run this a given number of times and average the nanoseconds that t
 <p>I also have this project on GitHub and was working on ore implementations, using different techniques (some working, some not quite yet) and left those in a branch called feature/other-impl-wip.
 The github page can be found here: https://github.com/mupetmower/LabelInsightBECodeTest</p>
 
-#Thank You#
+# Thank You!
