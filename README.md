@@ -30,7 +30,8 @@ It also will run this a given number of times and average the nanoseconds that t
 
 <p>I did not have enough time to work this as an option when running, but left it in the source and it can be played with if desired.</p>
 
-<p>I also have this project on GitHub and was working on ore implementations, using different techniques (some working, some not quite yet) and left those in a branch called feature/other-impl-wip.
-The github page can be found [Here](https://github.com/mupetmower/LabelInsightBECodeTest)</p>
+<p>I also have this project on GitHub and was working on ore implementations, using different techniques (some working, some not quite yet) and left those in a branch called feature/other-impl-wip. <br>
+The github page can be found at https://github.com/mupetmower/LabelInsightBECodeTest.
+</p>
 
 # Thank You!
