@@ -2,7 +2,7 @@
 
 ## Prerequisits
 - Java 1.8+
-- Make sure your Java Home is 1.8, or you IDE uses 1.8 to compile and run this project, or that you use Java 8 to build this as a jar and run with using javac, etc.
+- Make sure your Java Home is 1.8, or your IDE uses 1.8 to compile and run this project, or that you use Java 8 to build this as a jar and run with using javac, etc.
 
 ## How to Run
 This can run from either an IDE or built and then ran from the command line. 
